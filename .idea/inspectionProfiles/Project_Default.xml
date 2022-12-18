@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="drf-schema-adapter" />
+            <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="3" class="java.lang.String" itemvalue="envs" />
+            <item index="4" class="java.lang.String" itemvalue="analytics-python" />
+            <item index="5" class="java.lang.String" itemvalue="django-safedelete" />
+            <item index="6" class="java.lang.String" itemvalue="django-cognito-jwt" />
+            <item index="7" class="java.lang.String" itemvalue="django-csp" />
+            <item index="8" class="java.lang.String" itemvalue="parameterized" />
+            <item index="9" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="10" class="java.lang.String" itemvalue="pycognito" />
+            <item index="11" class="java.lang.String" itemvalue="inflector" />
+            <item index="12" class="java.lang.String" itemvalue="monotonic" />
+            <item index="13" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="14" class="java.lang.String" itemvalue="python-jose" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
